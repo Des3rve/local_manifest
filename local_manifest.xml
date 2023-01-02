@@ -31,6 +31,7 @@
    <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="rosemary" revision="twelve" />
    <project path="hardware/xiaomi" name="kscope_hardware_xiaomi" remote="rosemary" revision="sunflowerleaf" clone-depth="1"/>
    <!-- Extras -->
+   <remove-project name="frameworks_opt_telephony" />
    <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="rosemary" revision="twelve-L" clone-depth="1"/>
    <!-- Clang -->
    <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="rosemary" revision="arrow-11.0" clone-depth="1" />

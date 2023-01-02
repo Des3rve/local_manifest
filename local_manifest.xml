@@ -13,7 +13,7 @@
    <project path="kernel/redmi/rosemary" 
             name="kernel_redmi_rosemary" 
             remote="rosemary" 
-            revision="lineage-19.1" />
+            revision="sunflowerleaf" />
    <!-- Vendor Tree -->
    <project path="vendor/redmi/rosemary" 
             name="vendor_redmi_rosemary" 
